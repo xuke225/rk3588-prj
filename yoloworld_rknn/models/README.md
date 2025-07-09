@@ -1,0 +1,1 @@
+从 Releases 文件中下载 RKNN YOLOWorld Model 到本文件下
