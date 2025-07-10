@@ -55,7 +55,7 @@
 
 ### 系统架构
 
-![img.png](D:\Program Files (x86)\weixin_file\WeChat Files\wxid_m29ltwdazhpn21\FileStorage\File\2025-07\img.png)
+![img.png](./static/arch.png)
 
 ## 📦 环境要求
 
